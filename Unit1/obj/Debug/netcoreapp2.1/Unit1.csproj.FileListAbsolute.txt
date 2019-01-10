@@ -1,0 +1,11 @@
+/Users/denniskievits/dev/hr-development-6a/Unit1/bin/Debug/netcoreapp2.1/Unit1.deps.json
+/Users/denniskievits/dev/hr-development-6a/Unit1/bin/Debug/netcoreapp2.1/Unit1.runtimeconfig.json
+/Users/denniskievits/dev/hr-development-6a/Unit1/bin/Debug/netcoreapp2.1/Unit1.runtimeconfig.dev.json
+/Users/denniskievits/dev/hr-development-6a/Unit1/bin/Debug/netcoreapp2.1/Unit1.dll
+/Users/denniskievits/dev/hr-development-6a/Unit1/bin/Debug/netcoreapp2.1/Unit1.pdb
+/Users/denniskievits/dev/hr-development-6a/Unit1/obj/Debug/netcoreapp2.1/Unit1.csprojAssemblyReference.cache
+/Users/denniskievits/dev/hr-development-6a/Unit1/obj/Debug/netcoreapp2.1/Unit1.csproj.CoreCompileInputs.cache
+/Users/denniskievits/dev/hr-development-6a/Unit1/obj/Debug/netcoreapp2.1/Unit1.AssemblyInfoInputs.cache
+/Users/denniskievits/dev/hr-development-6a/Unit1/obj/Debug/netcoreapp2.1/Unit1.AssemblyInfo.cs
+/Users/denniskievits/dev/hr-development-6a/Unit1/obj/Debug/netcoreapp2.1/Unit1.dll
+/Users/denniskievits/dev/hr-development-6a/Unit1/obj/Debug/netcoreapp2.1/Unit1.pdb
